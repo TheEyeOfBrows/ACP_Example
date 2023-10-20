@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "402778998355",
+    "project_id": "acp-example",
+    "storage_bucket": "acp-example.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402778998355:android:1bc7bfeed3fefdd15168a6",
+        "android_client_info": {
+          "package_name": "ca.fewtrell.acp_example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJAir2j6KkOrLc8War3F_6-ePhF1YBfxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
